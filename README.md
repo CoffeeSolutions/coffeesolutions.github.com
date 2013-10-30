@@ -1,4 +1,4 @@
-coffeesolutions.github.com
+CoffeSolutions
 ==========================
 
 CoffeeSolutions - Homepage
